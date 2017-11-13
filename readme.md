@@ -172,6 +172,7 @@ Made with Electron.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor.
+- [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
 
 ### Closed Source
 
